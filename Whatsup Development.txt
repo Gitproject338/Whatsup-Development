@@ -5,3 +5,4 @@ Status
 Phonelog
 Loading (Images, videos..etc)
 Hiding the last seen notification
+Added video-call feature
