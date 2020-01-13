@@ -3,3 +3,5 @@ Modules:
 Chat
 Status
 Phonelog
+Loading (Images, videos..etc)
+Hiding the last seen notification
